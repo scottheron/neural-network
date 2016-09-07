@@ -1,0 +1,22 @@
+{
+  "name": "neural-network",
+  "version": "1.0.0",
+  "description": "neural network",
+  "main": "brain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottheron/neural-network.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottheron/neural-network/issues"
+  },
+  "homepage": "https://github.com/scottheron/neural-network#readme",
+  "dependencies": {
+    "brain": "^0.7.0"
+  }
+}
