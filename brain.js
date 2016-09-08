@@ -21,3 +21,4 @@ console.log(output);
 // var output = net.run({ r: 1, g: 0.4, b: 0 });  // { white: 0.99, black: 0.002 } 
 
 console.log(output);
+
